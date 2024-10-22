@@ -21,4 +21,6 @@ This application allows users to upload PDFs and interact with them using **Llam
 
 ---
 
-
+## How to use
+- Install the dependencies from requirement file
+- run -> streamlit run app.py 
